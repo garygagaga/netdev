@@ -35,5 +35,9 @@
 
 ## 学习交流
 
+个人邮箱：kfc55131@163.com
+
+有问题欢迎指正和交流，邮件看到肯定会回，着急的可以添加个人vx：
+
 <img src="https://gary-picture.oss-cn-hongkong.aliyuncs.com/202409112146824.jpg" alt="WechatIMG56" style="zoom:33%;" />
 
