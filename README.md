@@ -31,7 +31,7 @@
 ## 文档指引
 
 - [Hello World](https://github.com/garygagaga/netdev/tree/main/lesson1_hello_world)
-- 
+- [伪终端](https://github.com/garygagaga/netdev/tree/main/lesson2_ssh_terminal)
 
 ## 学习交流
 
