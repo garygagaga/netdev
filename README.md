@@ -32,6 +32,7 @@
 
 - [Hello World](https://github.com/garygagaga/netdev/tree/main/lesson1_hello_world)
 - [伪终端](https://github.com/garygagaga/netdev/tree/main/lesson2_ssh_terminal)
+- [如何向多台交换机推送命令](https://github.com/garygagaga/netdev/tree/main/lesson3_ssh_cli)
 
 ## 学习交流
 
